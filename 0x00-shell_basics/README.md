@@ -6,3 +6,4 @@ All the files are made executable by the command, "chmod u+x filname or chmod 75
 5-listfilesdigitonly displays current directory content in long format, with user and group IDs displayed numerically, and hidden files (starting with .)
 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory
 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory.
+8-firstdelete deletes the file betty.
