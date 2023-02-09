@@ -1,2 +1,0 @@
-#!/bin/bash
-mv [A-Z]?[a-zA-Z0-9]*.* . /tmp/u
