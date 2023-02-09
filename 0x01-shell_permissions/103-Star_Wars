@@ -1,2 +1,2 @@
 #!/bin/bash
-youtube-dl https://www.youtube.com/watch?v=sjcFeBUy2YQ
+telnet towel.blinkenlights.nl
