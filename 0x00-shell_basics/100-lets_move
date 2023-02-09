@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -v [A-Z]?[a-zA-Z0-9]* . /tmp/u
+mv [A-Z]?[a-zA-Z0-9]* . /tmp/u
